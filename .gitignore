@@ -1,0 +1,9 @@
+# Hermes skill manifest (SKILL.md + references/ + scripts/ are the package)
+*
+!SKILL.md
+!README.md
+!LICENSE
+!references/
+!references/**
+!scripts/
+!scripts/**
