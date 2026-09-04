@@ -4,6 +4,8 @@ A position-aware equity research pipeline skill for [Hermes Agent](https://herme
 
 Triggers on `/stock-research-pro` or "pro research". Ends in a single, un-hedged verdict — Strong Buy / Buy / Hold / Sell — with sizing, a tiered entry band, add/trim/exit triggers, and pre-committed kill criteria.
 
+> **Tip:** `/stock-research-glance` is a lighter companion skill — a six-question plain-language company snapshot. Run it **before** the pro pipeline when you don't yet know the company; use the pro pipeline when you're ready for a verdict, sizing, and entry band.
+
 ## What it does
 
 ```

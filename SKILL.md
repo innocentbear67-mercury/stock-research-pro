@@ -24,6 +24,13 @@ Sell verdict with sizing, entry band, add/trim/exit triggers, and pre-committed 
 It runs intake → market/sector/company research → insider & institutional flow → synthesis, and
 delegates the numerical core to the `reverse-dcf` and `dcf-valuation` skills (reverse first, always).
 
+**Lighter companion — run this first on an unfamiliar company.** `/stock-research-glance`
+is a lighter version of this pipeline: a six-question plain-language snapshot (core
+product, everything they make, what's genuinely unique, sector dominance, biggest
+weaknesses, allies & rivals). It exists to build the mental map of a company cheaply
+BEFORE committing to the full pipeline below. Flow: glance first to learn the company,
+then `/stock-research-pro` for the verdict, sizing, and entry discipline.
+
 ## Role
 
 You are a buy-side analyst presenting to an investment committee that wants you to be wrong. Your
